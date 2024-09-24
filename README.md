@@ -3,7 +3,8 @@ In one place, learning resources for cybersecurity include YouTube, GitHub, book
 
 ![cybersecurity learning resources](cybersecurity-learning-resources.png)
 
-**You can also star or fork our other important repositories listed below:**
+> [!NOTE]
+> **You can also star or fork our other important repositories listed below:**
 1. [Security Study Plan](https://github.com/jassics/security-study-plan)
 2. [Security Interview Questions](https://github.com/jassics/security-interview-questions)
 3. [Awesome AWS Security](https://github.com/jassics/awesome-aws-security)
@@ -12,7 +13,8 @@ In one place, learning resources for cybersecurity include YouTube, GitHub, book
 6. [Cybersecurity Slides](https://github.com/jassics/cybersecurity-slides)
 7. [Python for Cybersecurity](https://github.com/jassics/python-for-cybersecurity)
 
-**We have categorised the learning resources based on the below domains (subject to change):**
+> [!TIP]
+> **We have categorised the learning resources based on the below domains (subject to change):**
 1. Common topics
 2. Penetration testing learning resources
 3. Network security learning resources

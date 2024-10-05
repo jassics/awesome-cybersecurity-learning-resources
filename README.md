@@ -44,21 +44,36 @@ We would keep adding relevant learning references when we find them informative 
 2. [Security Engineering 3rd Edition](https://amzn.to/3ZRHnUv)
 3. [The Web Application Hacker's Handbook](https://www.amazon.in/Web-Application-Hackers-Handbook-Exploiting) - This was my first book when I started working as a Penetration Tester in 2014
 4. [Thinking Security](https://amzn.to/3BCptLg)
-5. [Schneier on Security](https://amzn.to/4eOuKxS) - Little ol now, but still very much useful to give you an idea of overall security notion. I enjoyed reading it!
+5. [Schneier on Security](https://amzn.to/4eOuKxS) - Little old now, but still very much useful to give you an idea of overall security notion. I enjoyed reading it!
+6. [The Phoenix Project](https://amzn.to/3zJPmZ6)
 
 ## Cybersecurity Videos
+1. [How to build a career in Cybersecurity](https://www.youtube.com/watch?v=TPoI1vwcdxo)
+2. [Cybersecurity Roadmap for Beginners](https://www.youtube.com/watch?v=-qklv1WXdmo)
+3. [Most underrated skills in Cybersecurity](https://www.youtube.com/watch?v=bUn_4b-Bkms)
+4. [Top 3 skills for success career in Cybersecurity](https://www.youtube.com/watch?v=j2IyXcZ2VTY)
 
 ## Free/Paid Cybersecurity Courses
+1. [Foundation of Cybersecurity by Google](https://www.coursera.org/learn/foundations-of-cybersecurity)
+2. [Google Cybersecurity](https://www.coursera.org/professional-certificates/google-cybersecurity)
+3. [Certified in Cybersecurity Specialization by ISC2](https://www.coursera.org/specializations/certified-in-cybersecurity)
 
 ## Free/Paid Cybersecurity Labs
-1. hackthebox
-2. tryhackme
+1. [hackthebox](https://referral.hackthebox.com/mzAlUIY) - Recommended
+2. [tryhackme](https://tryhackme.com/)
+3. [vulnhub](https://www.vulnhub.com/)
+4. [portswigger web security academy](https://portswigger.net/web-security/all-labs) - Must go through
+5. [Parrot CTF](https://parrot-ctfs.com/)
+6. [Pico CTF](https://picoctf.org/)
+7. [Lets Defend for Blue Teamers](https://www.letsdefend.io/)
+8. [CTF Time](https://ctftime.org/) 
+9. [Hacker101 by HackerOne](https://www.hacker101.com/)
 
 ## Security Certifications
 **We are keeping the certifications which are popular amongst security community and what HR asks.**
 1. CC from ISC2
 2. CompTIA Security+
-3. CISSP
+3. CISSP from ISC2
 
 <details>
 <summary> <b>1. ISC<sup>2</sup></b> </summary>
@@ -165,6 +180,7 @@ We would keep adding relevant learning references when we find them informative 
 
 
 ## Security Newsletters
+Instead of keeping it various locations in this repo, I kept it here for quick look and you can subscribe to the newsletter that is important for you and your career.
 1. [The Hacker News](https://thehackernews.com/#email-outer)
 2. [TLDR Sec](https://tldrsec.com/)
 3. [CSO Online](https://www.csoonline.com/newsletters/signup/)
@@ -181,7 +197,8 @@ We would keep adding relevant learning references when we find them informative 
 14. [Security Magazine](https://www.securitymagazine.com/)
 
 ## Security: Blogs/Articles
-
+1. [Reddit: How to get started in Cybersecurity](https://www.reddit.com/r/cybersecurity/comments/ti6a1n/how_to_get_started_into_cybersecurity/)
+2. [Quora: How do I start career in cybersecurity](https://www.quora.com/How-do-I-start-a-cybersecurity-career-from-scratch-with-zero-knowledge)
 
 ## Security Events/Conferences
 You can try to present, attend and meet like-minded people in these security chapters or conferences.

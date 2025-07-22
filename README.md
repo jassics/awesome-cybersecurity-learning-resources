@@ -68,6 +68,7 @@ We would keep adding relevant learning references when we find them informative 
 7. [Lets Defend for Blue Teamers](https://www.letsdefend.io/)
 8. [CTF Time](https://ctftime.org/) 
 9. [Hacker101 by HackerOne](https://www.hacker101.com/)
+10. [8kSec Battlegrounds](https://8ksec.io/battle/)
 
 ## Security Certifications
 **We are keeping the certifications which are popular amongst security community and what HR asks.**

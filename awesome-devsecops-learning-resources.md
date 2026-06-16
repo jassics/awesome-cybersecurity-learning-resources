@@ -42,9 +42,12 @@ Here are some DevSecOps learning resources to help you become a skilled DevSecOp
 7. [OWASP WrongSecrets](https://github.com/OWASP/wrongsecrets) - Hands-on secrets-management lab.
 
 ## DevSecOps Certifications
-1. [CDP by Practical DevSecOps](https://www.practical-devsecops.com/certified-devsecops-professional/) — Certified DevSecOps Professional, a hands-on certification focused on applying security in DevOps practices. [I had given my feedback after this examination in 2020](https://jassics.medium.com/certified-devsecops-professional-cdp-course-and-exam-review-2ea22938bd10)
-2. [DevSecOps Essentials by EC-Council](https://www.eccouncil.org/train-certify/devsecops-essentials-dse/) — A foundational certification covering essential skills and knowledge for implementing security in DevOps.
-3. [E|CDE by EC-Council](https://www.eccouncil.org/train-certify/certified-devsecops-engineer-ecde/) — EC-Council Certified DevSecOps Engineer, designed for professionals aiming to integrate security into DevOps environments.
+1. [CDP by Practical DevSecOps](https://www.practical-devsecops.com/certified-devsecops-professional/) — Certified DevSecOps Professional, covers DevSecOps basics with a focus on secure SDLC and CI/CD pipelines. Includes SCA, SAST, DAST, and Security as Code. [Exam review (2020)](https://jassics.medium.com/certified-devsecops-professional-cdp-course-and-exam-review-2ea22938bd10)
+2. [CDE by Practical DevSecOps](https://www.practical-devsecops.com/certified-devsecops-expert/) — Certified DevSecOps Expert, goes deeper into OS hardening, infrastructure and code compliance, vulnerability management, and automation.
+3. [CSSE by Practical DevSecOps](https://www.practical-devsecops.com/certified-software-supply-chain-security-expert/) — Certified Software Supply Chain Security Expert, covers how organizations protect against software supply chain attacks and how to assess and reduce related risks.
+4. [CSC by Practical DevSecOps](https://www.practical-devsecops.com/certified-security-champion/) — Certified Security Champion, focuses on identifying and fixing code vulnerabilities using CI/CD tools to strengthen pipeline security.
+5. [DevSecOps Essentials by EC-Council](https://www.eccouncil.org/train-certify/devsecops-essentials-dse/) — A foundational certification covering essential skills and knowledge for implementing security in DevOps.
+6. [E|CDE by EC-Council](https://www.eccouncil.org/train-certify/certified-devsecops-engineer-ecde/) — EC-Council Certified DevSecOps Engineer, designed for professionals aiming to integrate security into DevOps environments.
 
 ## Blogs/Articles
 Blog, articles, and other relevant learning resources

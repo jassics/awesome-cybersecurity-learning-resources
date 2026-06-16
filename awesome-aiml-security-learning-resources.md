@@ -52,9 +52,10 @@ AI/ML security is a fast-moving domain. It spans classical ML security (adversar
 
 ## AI/ML Security Certifications
 1. [Certified AI/ML Pentester (AIMPT) by The SecOps Group](https://secops.group/product/certified-ai-ml-pentester/)
-2. [CAISP - Certified AI Security Professional by Practical DevSecOps](https://www.practical-devsecops.com/certified-ai-ml-security-professional/)
-3. [Certified AI Security Fundamentals (various vendors: ISACA AAISM, ISC2 supplements)](https://www.isaca.org/credentialing) - Newer certs; check vendor availability.
-4. [NVIDIA Deep Learning Institute - AI security modules](https://www.nvidia.com/en-us/training/)
+2. [CAISP - Certified AI Security Professional by Practical DevSecOps](https://www.practical-devsecops.com/certified-ai-security-professional/) - Hands-on course covering OWASP LLM Top 10, model attacks, AI supply chain risks, AI Threat Modeling, and MITRE ATLAS defenses.
+3. [CMCPSE - Certified MCP Security Expert by Practical DevSecOps](https://www.practical-devsecops.com/certified-mcp-security-expert/) - Covers attacking, assessing, and hardening MCP servers. Topics include tool poisoning, prompt injection, supply chain security, and agentic AI defenses.
+4. [Certified AI Security Fundamentals (various vendors: ISACA AAISM, ISC2 supplements)](https://www.isaca.org/credentialing) - Newer certs; check vendor availability.
+5. [NVIDIA Deep Learning Institute - AI security modules](https://www.nvidia.com/en-us/training/)
 
 ## Blogs/Articles
 ### Core standards & reference

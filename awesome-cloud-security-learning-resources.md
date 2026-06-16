@@ -125,7 +125,8 @@ Cloud security spans IAM, network security, workload security, data security, po
 7. [CCAK - Certificate of Cloud Auditing Knowledge (CSA + ISACA)](https://cloudsecurityalliance.org/education/ccak/)
 8. [GCSA / GCLD / GPCS by SANS GIAC](https://www.giac.org/certifications/?focus-areas=cloud-security)
 9. [CCSE - Certified Cloud Security Engineer (Practical DevSecOps)](https://www.practical-devsecops.com/certified-cloud-security-engineer/)
-10. [CARTP / CARTE / AWS Red Team by Altered Security](https://www.alteredsecurity.com/) - offensive Azure / Entra ID / hybrid AD and AWS.
+10. [CCNSE - Certified Cloud-Native Security Expert (Practical DevSecOps)](https://www.practical-devsecops.com/certified-cloud-native-security-expert/) - Covers cloud-native security concepts including hacking and defending Kubernetes clusters, authentication, and authorization.
+11. [CARTP / CARTE / AWS Red Team by Altered Security](https://www.alteredsecurity.com/) - offensive Azure / Entra ID / hybrid AD and AWS.
 
 ## Blogs/Articles
 1. [AWS Security Blog](https://aws.amazon.com/blogs/security/)

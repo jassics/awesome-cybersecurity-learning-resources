@@ -120,6 +120,7 @@ It will include tools for SAST, SCA, OAST, Threat Modeling, Secure Code Review, 
 3. [ISSAP – Information Systems Security Architecture Professional](https://www.isc2.org/certifications/issap)
 4. CASE (Certified Application Security Engineer) Java or CASE .Net
 5. [CompTIA CASP+ (Application Security Professionals Plus)](https://www.comptia.org/certifications/comptia-advanced-security-practitioner)
+6. [CTMP - Certified Threat Modeling Professional (Practical DevSecOps)](https://www.practical-devsecops.com/certified-threat-modeling-professional/) — Covers STRIDE, PASTA, DREAD, MITRE, Agile, and Privacy threat modeling methods.
 
 ## Blogs/Articles
 1. [Scaling your AppSec Program with semgrep](https://www.youtube.com/watch?v=rAwxFw25x3E)

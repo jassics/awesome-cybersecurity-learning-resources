@@ -68,7 +68,8 @@ API security is one of the fastest-growing domains inside AppSec. Modern applica
 1. [CASA – Certified API Security Analyst (The SecOps Group)](https://secops.group/product/certified-api-security-analyst/) — Offensive, practical.
 2. [APIsec University – Certified API Security Specialist (free)](https://university.apisec.ai/) — Free certification of completion, good starting badge.
 3. [42Crunch API Security Certified Professional](https://42crunch.com/) — Defensive, API-gateway oriented.
-4. [OSWE by Offensive Security](https://www.offsec.com/courses/web-300/) — Not API-specific but covers advanced web/API exploitation.
+4. [CASP - Certified API Security Professional (Practical DevSecOps)](https://www.practical-devsecops.com/certified-api-security-professional/) — Teaches how to secure and audit APIs against vulnerabilities.
+5. [OSWE by Offensive Security](https://www.offsec.com/courses/web-300/) — Not API-specific but covers advanced web/API exploitation.
 
 ## Blogs/Articles
 1. [OWASP API Security Top 10 (2023) – official site](https://owasp.org/API-Security/editions/2023/en/0x00-header/)

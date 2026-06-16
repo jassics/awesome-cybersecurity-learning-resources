@@ -107,8 +107,9 @@ Container security covers the full lifecycle: image build (base image, Dockerfil
 2. [KCSA - Kubernetes and Cloud Native Security Associate](https://www.cncf.io/training/certification/kcsa/) - Entry-level companion to CKS (launched 2024).
 3. [KCNA - Kubernetes and Cloud Native Associate](https://www.cncf.io/training/certification/kcna/) - Foundational K8s knowledge.
 4. [CKA - Certified Kubernetes Administrator](https://www.cncf.io/training/certification/cka/) - Not security-specific but prerequisite knowledge for CKS.
-5. [CCSE - Certified Container Security Expert (Practical DevSecOps)](https://www.practical-devsecops.com/certified-container-security-expert/)
-6. [Red Hat Certified Specialist in Containers and Kubernetes](https://www.redhat.com/en/services/certification/rhcs-containers-kubernetes)
+5. [CCSE - Certified Container Security Expert (Practical DevSecOps)](https://www.practical-devsecops.com/certified-container-security-expert/) - Teaches how to build secure container images and analyze their vulnerabilities.
+6. [CCNSE - Certified Cloud-Native Security Expert (Practical DevSecOps)](https://www.practical-devsecops.com/certified-cloud-native-security-expert/) - Covers cloud-native security concepts including hacking and defending Kubernetes clusters, authentication, and authorization.
+7. [Red Hat Certified Specialist in Containers and Kubernetes](https://www.redhat.com/en/services/certification/rhcs-containers-kubernetes)
 
 ## Blogs/Articles
 1. [NSA/CISA Kubernetes Hardening Guide](https://media.defense.gov/2022/Aug/29/2003066362/-1/-1/0/CTR_KUBERNETES_HARDENING_GUIDANCE_1.2_20220829.PDF)

@@ -81,12 +81,13 @@ Cyber Threat Intelligence covers strategic, operational, tactical, and technical
 16. [RiskIQ PassiveTotal (now Microsoft Defender TI)](https://ti.defender.microsoft.com/)
 17. [Validin](https://www.validin.com/) / [DNSDB by Farsight](https://www.domaintools.com/products/farsight-dnsdb/) - Passive DNS.
 18. [Spamhaus / Team Cymru](https://www.spamhaus.org/)
+19. [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - Independent X (Twitter) data API for search, follower export, monitors, and MCP.
 
 ### Adversary TTP frameworks / tracking
 19. [MITRE ATT&CK Navigator](https://mitre-attack.github.io/attack-navigator/)
 20. [Diamond Model references](https://www.threatintel.academy/diamond/)
 21. [F3EAD cycle](https://publicintelligence.net/f3ead/)
-22. [Caldera by MITRE](https://github.com/mitre/caldera) - Adversary emulation.
+22. [Caldera by MITRE](https://github.com/apache/caldera) - Adversary emulation.
 23. [Atomic Red Team by Red Canary](https://atomicredteam.io/)
 24. [VECTR by SRA](https://vectr.io/) - Purple-team campaign tracking.
 

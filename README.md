@@ -88,6 +88,7 @@ We would keep adding relevant learning references when we find them informative 
 10. [CyberDefenders](https://cyberdefenders.org/) - Blue-team challenges, DFIR.
 12. [Dark-Moon](https://github.com/ASCIT31/Dark-Moon) - open source (GPL-3.0) autonomous AI pentest platform, self-hosted, to train safely on legal labs (OWASP Juice Shop, DVWA, kubernetes-goat, Hack The Box); covers web, API, Active Directory and Kubernetes.
 11. [RangeForce](https://www.rangeforce.com/) - Blue-team labs.
+13. [RansomLeak](https://ransomleak.com/learning/) - Free browser-based labs: security awareness, OWASP Web and API Top 10, cloud, Git, and AI security
 
 ## Security Certifications
 **We are keeping the certifications which are popular amongst security community and what HR asks.**

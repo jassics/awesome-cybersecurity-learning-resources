@@ -76,6 +76,7 @@ AI/ML security is a fast-moving domain. It spans classical ML security (adversar
 14. [OWASP Top 10 for Agentic Applications (2026)](https://genai.owasp.org/resource/owasp-top-10-for-agentic-applications-for-2026/) - The definitive risk list for autonomous AI agents.
 15. [OWASP Agentic Security Initiative resources](https://genai.owasp.org/2025/12/09/owasp-genai-security-project-releases-top-10-risks-and-mitigations-for-agentic-ai-security/)
 16. [MCP Security overview and tools landscape (Adversa AI, Apr 2026)](https://adversa.ai/blog/top-mcp-security-resources-april-2026/)
+17. [Orca AI Incident Archive](https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive) - Open database of real-world AI agent security events since 2025 (prompt injection, MCP, agent supply chain, agents taking destructive actions), each record source-linked, graded for source quality and labelled for confirmed harm.
 
 ### Prompt injection / jailbreaks / RAG
 17. [Prompt injection explained - Simon Willison archive](https://simonwillison.net/tags/promptinjection/)

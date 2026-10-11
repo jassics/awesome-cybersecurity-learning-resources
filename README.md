@@ -74,6 +74,7 @@ We would keep adding relevant learning references when we find them informative 
 5. [Microsoft SC-900 Fundamentals](https://learn.microsoft.com/en-us/certifications/security-compliance-and-identity-fundamentals/)
 6. [Cisco Networking Academy - free cybersecurity courses](https://www.netacad.com/cybersecurity)
 7. [SecuSpark - Gamified practice for CompTIA Security+, CySA+, PenTest+, SecAI+](https://www.secuspark.com/) - 7,500+ human-written practice questions with mock exams and spaced-repetition flashcards. Free tier.
+8. [SaveMyCert - ISC2 CC revision notes and practice questions](https://www.savemycert.com/practice/isc2-certified-in-cybersecurity/) - Revision notes for every domain of the current CC exam outline, free to read without an account, plus 599 practice questions with every answer option explained (30 a day on a free account).
 8. [CrushCert - Adaptive practice for CompTIA Security+, CySA+, SecurityX (CASP+)](https://crushcert.com/security-plus-practice-test) - Adaptive practice questions, hands-on labs and mock exams for Security+, CySA+ and SecurityX (CASP+); free 7-day trial.
 
 ## Free/Paid Cybersecurity Labs

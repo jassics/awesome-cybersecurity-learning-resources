@@ -75,6 +75,7 @@ We would keep adding relevant learning references when we find them informative 
 6. [Cisco Networking Academy - free cybersecurity courses](https://www.netacad.com/cybersecurity)
 7. [SecuSpark - Gamified practice for CompTIA Security+, CySA+, PenTest+, SecAI+](https://www.secuspark.com/) - 7,500+ human-written practice questions with mock exams and spaced-repetition flashcards. Free tier.
 8. [SaveMyCert - ISC2 CC revision notes and practice questions](https://www.savemycert.com/practice/isc2-certified-in-cybersecurity/) - Revision notes for every domain of the current CC exam outline, free to read without an account, plus 599 practice questions with every answer option explained (30 a day on a free account).
+8. [CrushCert - Adaptive practice for CompTIA Security+, CySA+, SecurityX (CASP+)](https://crushcert.com/security-plus-practice-test) - Adaptive practice questions, hands-on labs and mock exams for Security+, CySA+ and SecurityX (CASP+); free 7-day trial.
 
 ## Free/Paid Cybersecurity Labs
 1. [hackthebox](https://referral.hackthebox.com/mzAlUIY) - Recommended
@@ -90,6 +91,7 @@ We would keep adding relevant learning references when we find them informative 
 12. [Dark-Moon](https://github.com/ASCIT31/Dark-Moon) - open source (GPL-3.0) autonomous AI pentest platform, self-hosted, to train safely on legal labs (OWASP Juice Shop, DVWA, kubernetes-goat, Hack The Box); covers web, API, Active Directory and Kubernetes.
 11. [RangeForce](https://www.rangeforce.com/) - Blue-team labs.
 13. [RansomLeak](https://ransomleak.com/learning/) - Free browser-based labs: security awareness, OWASP Web and API Top 10, cloud, Git, and AI security
+14. [Courseiva Phishing Simulator](https://courseiva.com/labs/phishing-simulator) - Free browser-based phishing-spotting exercise with realistic sample emails and explanations of each red flag. No sign-up.
 
 ## Security Certifications
 **We are keeping the certifications which are popular amongst security community and what HR asks.**

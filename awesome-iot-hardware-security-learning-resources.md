@@ -39,14 +39,15 @@ IoT / hardware / embedded security covers firmware analysis, hardware interfaces
 4. [TryHackMe - IoT / Hardware rooms](https://tryhackme.com/)
 5. [Embedded Security CTF by Microcorruption (free)](https://microcorruption.com/login) - Highly recommended; MSP430 firmware exploitation.
 6. [MITRE EMB3D threat model (free)](https://emb3d.mitre.org/) - Embedded-device threat model released 2024.
+7. [OnlySecurity IoT and Hardware Hacker learning path](https://onlysecurity.com/learning-paths/iot-hardware-hacker/) - Eight free courses on Electronic Cats CatSniffer and Minino, Bus Pirate and fault injection. Free account required.
 
 ### Paid
-7. [SANS SEC556: IoT Penetration Testing (GIAC GICSP also adjacent)](https://www.sans.org/cyber-security-courses/iot-penetration-testing/)
-8. [Attify - Offensive IoT Exploitation](https://www.attify.com/offensive-iot-exploitation)
-9. [8kSec - Embedded / IoT training](https://academy.8ksec.io/)
-10. [Hardwear.io trainings](https://hardwear.io/)
-11. [Nccgroup / ToolsWatch trainings](https://research.nccgroup.com/)
-12. [OffSec EXP-301 / EXP-401 (OSED/OSEE)](https://www.offsec.com/) - Useful for native firmware exploitation.
+8. [SANS SEC556: IoT Penetration Testing (GIAC GICSP also adjacent)](https://www.sans.org/cyber-security-courses/iot-penetration-testing/)
+9. [Attify - Offensive IoT Exploitation](https://www.attify.com/offensive-iot-exploitation)
+10. [8kSec - Embedded / IoT training](https://academy.8ksec.io/)
+11. [Hardwear.io trainings](https://hardwear.io/)
+12. [Nccgroup / ToolsWatch trainings](https://research.nccgroup.com/)
+13. [OffSec EXP-301 / EXP-401 (OSED/OSEE)](https://www.offsec.com/) - Useful for native firmware exploitation.
 
 ## Free/Paid Labs
 1. [Microcorruption CTF](https://microcorruption.com/login) - Essential for embedded exploitation basics.

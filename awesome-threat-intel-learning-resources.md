@@ -98,6 +98,9 @@ Cyber Threat Intelligence covers strategic, operational, tactical, and technical
 28. [Sigma](https://github.com/SigmaHQ/sigma) - Detection rule format.
 29. [CACAO](https://www.oasis-open.org/committees/cacao/) - Playbook standard.
 
+### Threat Intelligence Indexes & Daily Feeds
+30. [ICHI — Internet Cyber Health Index](https://ichi.global/) - Free, source-transparent daily barometer aggregating 20+ named public threat intel, news, and telemetry feeds into a single outside-in daily index of internet cyber health; useful for practitioners tracking daily attack surface trends.
+
 ## Certifications
 1. [GCTI - GIAC Cyber Threat Intelligence (SANS FOR578)](https://www.giac.org/certifications/cyber-threat-intelligence-gcti/) - The industry benchmark.
 2. [CTIA - Certified Threat Intelligence Analyst (EC-Council)](https://www.eccouncil.org/train-certify/certified-threat-intelligence-analyst-ctia/)

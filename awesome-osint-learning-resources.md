@@ -84,7 +84,7 @@ OSINT is the practice of collecting and analyzing publicly-available information
 17. [Osintgram](https://github.com/Datalux/Osintgram) - Instagram.
 18. [Instaloader](https://instaloader.github.io/)
 19. [LinkedIn search (x-ray via Google), [OSINT Industries](https://osint.industries/)
-20. [Social Bearing / tweetbeaver / Hoaxy](https://socialbearing.com/)
+20. [Hoaxy](https://hoaxy.osome.iu.edu/), [twtData](https://twtdata.com/twitter-trends/) - Free dated X trends archive by country and city, plus a free one-handle bot-risk check.
 
 ### Domains / IP / infrastructure
 21. [whois / rdap / host / dig](https://www.iana.org/whois)

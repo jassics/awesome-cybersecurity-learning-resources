@@ -91,6 +91,7 @@ We would keep adding relevant learning references when we find them informative 
 11. [RangeForce](https://www.rangeforce.com/) - Blue-team labs.
 13. [RansomLeak](https://ransomleak.com/learning/) - Free browser-based labs: security awareness, OWASP Web and API Top 10, cloud, Git, and AI security
 14. [Courseiva Phishing Simulator](https://courseiva.com/labs/phishing-simulator) - Free browser-based phishing-spotting exercise with realistic sample emails and explanations of each red flag. No sign-up.
+15. [SOC Home Lab](https://github.com/szzxli/soc-home-lab) - Free, open-source blue-team labs on synthetic data: AWS mini-SOC, CloudTrail IOC analyzer (in-browser demo), phishing analysis, ELF triage, CISA KEV threat hunting.
 
 ## Security Certifications
 **We are keeping the certifications which are popular amongst security community and what HR asks.**

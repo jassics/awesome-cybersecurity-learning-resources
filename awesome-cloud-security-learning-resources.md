@@ -42,7 +42,7 @@ Cloud security spans IAM, network security, workload security, data security, po
 6. [AttackIQ Academy - Cloud security courses (Free)](https://www.academy.attackiq.com/)
 
 ### Azure
-7. [Microsoft Learn - AZ-500 learning path (Free)](https://learn.microsoft.com/en-us/training/courses/az-500t00)
+7. [Microsoft Learn - SC-500 study guide (Free)](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/sc-500)
 8. [Microsoft Learn - SC-100 Cybersecurity Architect](https://learn.microsoft.com/en-us/training/courses/sc-100t00)
 
 ### GCP
@@ -117,7 +117,7 @@ Cloud security spans IAM, network security, workload security, data security, po
 
 ## Certifications
 1. [AWS Certified Security - Specialty (SCS-C02)](https://aws.amazon.com/certification/certified-security-specialty/)
-2. [Microsoft AZ-500 - Azure Security Engineer Associate](https://learn.microsoft.com/en-us/certifications/azure-security-engineer/)
+2. [Microsoft SC-500 - Cloud and AI Security Engineer Associate](https://learn.microsoft.com/en-us/credentials/certifications/cloud-and-ai-security-engineer-associate/)
 3. [Microsoft SC-100 - Cybersecurity Architect Expert](https://learn.microsoft.com/en-us/certifications/cybersecurity-architect-expert/)
 4. [Google Professional Cloud Security Engineer](https://cloud.google.com/learn/certification/cloud-security-engineer)
 5. [CCSK by Cloud Security Alliance](https://cloudsecurityalliance.org/education/ccsk/)

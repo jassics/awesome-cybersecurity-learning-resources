@@ -70,11 +70,12 @@ We would keep adding relevant learning references when we find them informative 
 1. [Foundation of Cybersecurity by Google](https://www.coursera.org/learn/foundations-of-cybersecurity)
 2. [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity)
 3. [Certified in Cybersecurity Specialization by ISC2](https://www.coursera.org/specializations/certified-in-cybersecurity)
-4. [ISC2 CC - Free entry-level cybersecurity certification](https://www.isc2.org/certifications/cc) - Exam voucher is free under the "One Million Certified in Cybersecurity" program in some regions.
+4. [ISC2 CC - Entry-level cybersecurity certification](https://www.isc2.org/certifications/cc) - The free "One Million Certified in Cybersecurity" program closed to new enrollments on May 20, 2026; existing exam codes must be used by December 31, 2026.
 5. [Microsoft SC-900 Fundamentals](https://learn.microsoft.com/en-us/certifications/security-compliance-and-identity-fundamentals/)
 6. [Cisco Networking Academy - free cybersecurity courses](https://www.netacad.com/cybersecurity)
 7. [SecuSpark - Gamified practice for CompTIA Security+, CySA+, PenTest+, SecAI+](https://www.secuspark.com/) - 7,500+ human-written practice questions with mock exams and spaced-repetition flashcards. Free tier.
 8. [CrushCert - Adaptive practice for CompTIA Security+, CySA+, SecurityX (CASP+)](https://crushcert.com/security-plus-practice-test) - Adaptive practice questions, hands-on labs and mock exams for Security+, CySA+ and SecurityX (CASP+); free 7-day trial.
+9. [ExamCrest - Microsoft SC-900 practice questions](https://examcrest.com/exam/ms-sc-900/free-questions?utm_source=github&utm_campaign=jassics-cyber) - Free SC-900 sample questions with every option explained, no signup; full mock tests are paid.
 
 ## Free/Paid Cybersecurity Labs
 1. [hackthebox](https://referral.hackthebox.com/mzAlUIY) - Recommended

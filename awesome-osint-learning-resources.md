@@ -78,48 +78,49 @@ OSINT is the practice of collecting and analyzing publicly-available information
 13. [HaveIBeenPwned](https://haveibeenpwned.com/) - Breach data.
 14. [Holehe](https://github.com/megadose/holehe) - Check email against 100+ sites.
 15. [GHunt](https://github.com/mxrch/GHunt) - Google account OSINT.
+16. [TraceFind](https://tracefind.info/) - Email, phone and username lookup: registered accounts, profiles and data breaches.
 
 ### Social media
-16. [Twint (archived; use Nitter + snscrape forks)](https://github.com/twintproject/twint)
-17. [Osintgram](https://github.com/Datalux/Osintgram) - Instagram.
-18. [Instaloader](https://instaloader.github.io/)
-19. [LinkedIn search (x-ray via Google), [OSINT Industries](https://osint.industries/)
-20. [Social Bearing / tweetbeaver / Hoaxy](https://socialbearing.com/)
+17. [Twint (archived; use Nitter + snscrape forks)](https://github.com/twintproject/twint)
+18. [Osintgram](https://github.com/Datalux/Osintgram) - Instagram.
+19. [Instaloader](https://instaloader.github.io/)
+20. [LinkedIn search (x-ray via Google), [OSINT Industries](https://osint.industries/)
+21. [Social Bearing / tweetbeaver / Hoaxy](https://socialbearing.com/)
 
 ### Domains / IP / infrastructure
-21. [whois / rdap / host / dig](https://www.iana.org/whois)
-22. [DomainTools / Iris](https://www.domaintools.com/)
-23. [ViewDNS.info](https://viewdns.info/)
-24. [SecurityTrails](https://securitytrails.com/)
-25. [Shodan](https://www.shodan.io/), [Censys](https://censys.io/), [Fofa](https://en.fofa.info/), [ZoomEye](https://www.zoomeye.org/), [Criminal IP](https://www.criminalip.io/)
-26. [GreyNoise](https://www.greynoise.io/)
-27. [BGP.HE.net / Hurricane Electric](https://bgp.he.net/)
-28. [Wayback Machine / Archive.today](https://web.archive.org/)
-29. [URLScan.io](https://urlscan.io/)
-30. [crt.sh](https://crt.sh/) - Certificate transparency.
+22. [whois / rdap / host / dig](https://www.iana.org/whois)
+23. [DomainTools / Iris](https://www.domaintools.com/)
+24. [ViewDNS.info](https://viewdns.info/)
+25. [SecurityTrails](https://securitytrails.com/)
+26. [Shodan](https://www.shodan.io/), [Censys](https://censys.io/), [Fofa](https://en.fofa.info/), [ZoomEye](https://www.zoomeye.org/), [Criminal IP](https://www.criminalip.io/)
+27. [GreyNoise](https://www.greynoise.io/)
+28. [BGP.HE.net / Hurricane Electric](https://bgp.he.net/)
+29. [Wayback Machine / Archive.today](https://web.archive.org/)
+30. [URLScan.io](https://urlscan.io/)
+31. [crt.sh](https://crt.sh/) - Certificate transparency.
 
 ### Geolocation / imagery
-31. [Google Earth Pro (free)](https://www.google.com/earth/)
-32. [Google Maps Street View / Mapillary / KartaView](https://www.mapillary.com/)
-33. [Bing Maps (often complementary views)](https://www.bing.com/maps)
-34. [Sentinel Hub / EO Browser](https://www.sentinel-hub.com/) - Satellite imagery.
-35. [SunCalc / ShadowCalc](https://www.suncalc.org/) - Sun position for chronolocation.
-36. [ExifTool](https://exiftool.org/) - Image metadata.
-37. [InVID / WeVerify plugin](https://www.invid-project.eu/) - Video / image verification.
-38. [FotoForensics](https://fotoforensics.com/) - Image forensics.
+32. [Google Earth Pro (free)](https://www.google.com/earth/)
+33. [Google Maps Street View / Mapillary / KartaView](https://www.mapillary.com/)
+34. [Bing Maps (often complementary views)](https://www.bing.com/maps)
+35. [Sentinel Hub / EO Browser](https://www.sentinel-hub.com/) - Satellite imagery.
+36. [SunCalc / ShadowCalc](https://www.suncalc.org/) - Sun position for chronolocation.
+37. [ExifTool](https://exiftool.org/) - Image metadata.
+38. [InVID / WeVerify plugin](https://www.invid-project.eu/) - Video / image verification.
+39. [FotoForensics](https://fotoforensics.com/) - Image forensics.
 
 [Metadata Remover Viewer](https://metadataremover.ai/metadata-viewer) - Browser-local EXIF, GPS, XMP, and IPTC inspection; files stay in the browser.
 Metadata can be missing, stripped, edited, or forged; corroborate it with provenance and visual/context evidence.
 
 ### Dark-web / underground (use caution, legality varies)
-39. [Ahmia (Tor search)](https://ahmia.fi/)
-40. [Intelligence X](https://intelx.io/)
-41. [Torch / DarkSearch / OnionLand](https://darksearch.io/)
+40. [Ahmia (Tor search)](https://ahmia.fi/)
+41. [Intelligence X](https://intelx.io/)
+42. [Torch / DarkSearch / OnionLand](https://darksearch.io/)
 
 ### Automation / OPSEC
-42. [Sock-puppet management: MullvadBrowser, Whoogle, Firefox containers](https://mullvad.net/en/browser)
-43. [Tails OS, Whonix, Qubes OS](https://tails.net/)
-44. [Buscador VM (archived) - replaced by custom build per IntelTechniques](https://inteltechniques.com/osintbook10/linux.html)
+43. [Sock-puppet management: MullvadBrowser, Whoogle, Firefox containers](https://mullvad.net/en/browser)
+44. [Tails OS, Whonix, Qubes OS](https://tails.net/)
+45. [Buscador VM (archived) - replaced by custom build per IntelTechniques](https://inteltechniques.com/osintbook10/linux.html)
 
 ## Certifications
 1. [GOSI - GIAC Open Source Intelligence (SANS SEC487)](https://www.giac.org/certifications/open-source-intelligence-gosi/)

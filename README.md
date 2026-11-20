@@ -231,6 +231,7 @@ Instead of keeping it various locations in this repo, I kept it here for quick l
 4. [MITRE ATT&CK knowledge base](https://attack.mitre.org/)
 5. [OWASP Top 10 (Web, API, LLM, Mobile, K8s) - central OWASP site](https://owasp.org/projects/)
 6. [CISA Known Exploited Vulnerabilities (KEV) catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+7. [Minimum Cybersecurity Stack for Small MSP Clients](https://izikipizi.github.io/nizlo-msp-operations-resources/minimum-cybersecurity-stack-small-msp.html) - Outcome-focused guide covering identity, endpoint, email, backup, logging, and incident-response baselines without prescribing specific vendors.
 
 ## Security Events/Conferences
 You can try to present, attend and meet like-minded people in these security chapters or conferences.

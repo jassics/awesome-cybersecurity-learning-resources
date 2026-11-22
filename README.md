@@ -75,6 +75,7 @@ We would keep adding relevant learning references when we find them informative 
 6. [Cisco Networking Academy - free cybersecurity courses](https://www.netacad.com/cybersecurity)
 7. [SecuSpark - Gamified practice for CompTIA Security+, CySA+, PenTest+, SecAI+](https://www.secuspark.com/) - 7,500+ human-written practice questions with mock exams and spaced-repetition flashcards. Free tier.
 8. [CrushCert - Adaptive practice for CompTIA Security+, CySA+, SecurityX (CASP+)](https://crushcert.com/security-plus-practice-test) - Adaptive practice questions, hands-on labs and mock exams for Security+, CySA+ and SecurityX (CASP+); free 7-day trial.
+9. [CipherExam - Practice questions and PBQs for CompTIA Security+, Network+, A+](https://cipherexam.com/) - Scenario-based practice questions and PBQs with explanations of the reasoning behind each answer, for Security+ SY0-701, Network+ N10-009 and A+ Core 2; 14-day free trial.
 
 ## Free/Paid Cybersecurity Labs
 1. [hackthebox](https://referral.hackthebox.com/mzAlUIY) - Recommended

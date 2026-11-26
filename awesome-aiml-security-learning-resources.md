@@ -97,6 +97,7 @@ AI/ML security is a fast-moving domain. It spans classical ML security (adversar
 30. [What are foundation models - DataCamp](https://www.datacamp.com/blog/what-are-foundation-models)
 31. [Anthropic - Responsible Scaling Policy and red teaming posts](https://www.anthropic.com/research)
 32. [OpenAI - System Cards and safety evaluations](https://openai.com/safety)
+33. [2026 Vibe-Coding Security Cheat Sheet](https://zcoldwater.github.io/omniforge-skills/vibecoding-security-cheat-sheet-2026.html) - Open-source defensive reference covering common AI-generated web app pitfalls (exposed client secrets, Supabase/Firebase RLS gaps, missing CSP/HSTS headers) with copy-paste remediation prompts and an MIT-licensed CLI.
 
 ### AI Agent Security Research
 30. [AI Agent SRC Vulnerability Research](https://github.com/OLDBAI213/src-research) - AI agent learning SRC vulnerability research from scratch: research notes, framework analysis, 12 real cases, 30-day learning roadmap (Chinese).

@@ -19,6 +19,7 @@
 6. [The Practice of Network Security Monitoring by Richard Bejtlich (No Starch)](https://nostarch.com/nsm)
 7. [Attacking Network Protocols by James Forshaw (No Starch)](https://nostarch.com/networkprotocols)
 8. [Serious Cryptography by Jean-Philippe Aumasson (No Starch)](https://nostarch.com/seriouscrypto)
+9. [Onion Routing Anatomy by Alessandro Greco](https://github.com/aleff-github/onion-routing-anatomy) - Free, open-source technical book on the Tor protocol, available in five languages, with 20 reproducible private-network laboratories.
 
 ## Videos
 1. [Professor Messer - Network+ and Security+ free training](https://www.youtube.com/@professormesser)
